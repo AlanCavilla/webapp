@@ -1,0 +1,16 @@
+UDBG.CNF
+Server Debug.lnk
+IDE - webapp.lnk
+resources/
+dbms/app_data.db
+dbms/source_repo.db
+log/
+lst/
+web/dspjs/
+asn/ide.asn
+asn/urouter.asn
+adm/uproperties.ini
+adm/usys.ini
+asn/setup.asn
+project.setup.xml
+web/WEB-INF/web.xml
