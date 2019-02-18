@@ -1,18 +1,21 @@
-UDBG.CNF
-Server Debug.lnk
 IDE - webapp.lnk
-resources/
-dev/cmi
-dev/dbms/app_data.db
-dev/dbms/source_repo.db
-dev/dtd
-dev/export
-dev/lst
-log/
-web/dspjs/
+project.setup.xml
+Server Debug.lnk
+UDBG.CNF
 asn/ide.asn
-adm/ide.ini
+asn/ide.ini
 asn/urouter.asn
 asn/setup.asn
-project.setup.xml
+dev/cmi/
+dev/dbms/app_data.db
+dev/dbms/source_repo.db
+dev/dtd/
+dev/export/
+dev/lst/
+hts/archive/
+hts/backup/
+log/
+resources/
+web/dspjs/
+web/js/backup/
 web/WEB-INF/web.xml
