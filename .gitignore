@@ -1,4 +1,5 @@
 IDE - webapp.lnk
+ide_state.zip
 project.setup.xml
 Server Debug.lnk
 UDBG.CNF
@@ -7,15 +8,13 @@ asn/ide.ini
 asn/urouter.asn
 asn/setup.asn
 dev/cmi/
-dev/dbms/app_data.db
-dev/dbms/source_repo.db
+dev/dbms/*.db
 dev/dtd/
 dev/export/
 dev/lst/
-hts/archive/
-hts/backup/
 log/
 resources/
 web/dspjs/
-web/js/backup/
 web/WEB-INF/web.xml
+*/archive/
+*/backup/
